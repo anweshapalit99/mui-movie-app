@@ -7,4 +7,4 @@ To run it locally one can fork the repo and then clone it or directly clone the 
 
 The app is hosted using github pages and can be found here https://anweshapalit99.github.io/mui-movie-app/
 
-P.S : A lot of inline styles using the MUI library should be present in the code, the presence of it is acknowledged, and I plan to move them seperately in later commits.
+P.S : A lot of inline styles using the MUI library should be present in the code, the presence of it is acknowledged, and I plan to move them out seperately in later commits.
